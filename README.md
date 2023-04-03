@@ -24,5 +24,6 @@ TBH
 |   Name   | ID      | GitHub   | Email  
 | ------------- | ------------- | --------    | -------- |
 | `Jonathan Haddad`         | `40111053`         | ([GitHub/jonathan-githubofficial](https://github.com/jonathan-githubofficial))   | jonathan200023@gmail.com
+| `Sonia Rahal`         | `40211893`         | ([GitHub/soni2261](https://github.com/soni2261))   | soniarahal20@gmail.com
 
 
