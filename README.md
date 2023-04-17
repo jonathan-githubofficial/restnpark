@@ -10,6 +10,8 @@ https://www.figma.com/proto/Yo26ygmLMKEAnYUlHaZfK9/SOEN-357?node-id=56-1746&scal
 ![sketch 357 project](https://user-images.githubusercontent.com/79821374/232355736-40170d83-60eb-4d7e-8e64-56830bb0438d.jpg)
 ### Parking user
 ![sketch 357 project 2](https://user-images.githubusercontent.com/79821374/232356126-93096705-4320-411c-a21f-0fdd4538a484.jpg)
+### Parking owner
+![sketch 357 project 3](https://user-images.githubusercontent.com/79821374/232356169-28a9ce7f-2a28-42f8-888c-0c16f8167218.jpg)
 
 ## Typography
 ![Typography](https://user-images.githubusercontent.com/79821374/232353345-85eba66c-66b5-40a8-9a38-b5263569340b.png)
