@@ -1,24 +1,13 @@
 
 # THE RestNPark project -357
 This is the repo for the final project (SOEN 357) Project Winter 2023
-
-## Objective
- 
-
-## Project Description
-
-
-
-## Features
-TBH
-
-## Additional Features
-TBH
-
 ## Technologies
 
 * TBH
 * Figma
+
+## Prototype
+https://www.figma.com/proto/Yo26ygmLMKEAnYUlHaZfK9/SOEN-357?node-id=56-1746&scaling=scale-down&page-id=52%3A293&starting-point-node-id=56%3A1746
 
 ## Typography
 ![Typography](https://user-images.githubusercontent.com/79821374/232353345-85eba66c-66b5-40a8-9a38-b5263569340b.png)
@@ -36,6 +25,5 @@ DM Sans is a modern sans-serif typeface designed by Colophon Foundry. It is a hi
 | `Elias Sabbagh`   | `401100144`| ([GitHub/EliasSabbagh47](https://github.com/EliasSabbagh47))  | elias.sabbagh47@hotmail.com
 | `Yason Bedoshvili` | `40058829` | ([GitHub/Yason287](https://github.com/Yason287)) | yasonbedoshvili@gmail.com
 
-## Prototype
-https://www.figma.com/proto/Yo26ygmLMKEAnYUlHaZfK9/SOEN-357?node-id=56-1746&scaling=scale-down&page-id=52%3A293&starting-point-node-id=56%3A1746
+
 
