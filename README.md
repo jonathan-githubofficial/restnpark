@@ -1,10 +1,6 @@
 
 # THE RestNPark project -357
 This is the repo for the final project (SOEN 357) Project Winter 2023
-## Technologies
-
-* TBH
-* Figma
 
 ## Prototype
 https://www.figma.com/proto/Yo26ygmLMKEAnYUlHaZfK9/SOEN-357?node-id=56-1746&scaling=scale-down&page-id=52%3A293&starting-point-node-id=56%3A1746
