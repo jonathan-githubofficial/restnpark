@@ -24,6 +24,9 @@ TBH
 ![Typography](https://user-images.githubusercontent.com/79821374/232353345-85eba66c-66b5-40a8-9a38-b5263569340b.png)
 DM Sans is a modern sans-serif typeface designed by Colophon Foundry. It is a highly legible and functional typeface that works well in a wide range of applications, from headlines and body text to user interfaces and branding materials.
 
+### Color Palette
+![Group 792](https://user-images.githubusercontent.com/79821374/232353444-639ec89c-d159-4277-9bb3-e5a163783d30.png)
+
 ## Team Members
 |   Name   | ID      | GitHub   | Email  
 | ------------- | ------------- | --------    | -------- |
@@ -36,6 +39,4 @@ DM Sans is a modern sans-serif typeface designed by Colophon Foundry. It is a hi
 ## Prototype
 
 
-### Typography
 
-### Color Palette
