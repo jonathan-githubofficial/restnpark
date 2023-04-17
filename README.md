@@ -11,6 +11,9 @@ DM Sans is a modern sans-serif typeface designed by Colophon Foundry. It is a hi
 
 ### Color Palette
 ![Group 792](https://user-images.githubusercontent.com/79821374/232353444-639ec89c-d159-4277-9bb3-e5a163783d30.png)
+Black and white: The combination of black (#000000) and white (#FFFFFF) creates a strong contrast that can be used to make other colors stand out. For example, white text on a black background can be very legible and attention-grabbing.
+Teal and orange: The combination of teal (#138E5A) and orange (#B75616) creates a complementary color scheme that is eye-catching and bold. This combination can work well for action-oriented themes.
+Dark backgrounds: The dark brown (#231B12), dark green (#284837), and black (#000000) can be used together as a dark, moody background for other elements to pop against. For example, white text or brightly colored graphics can be placed on top of this dark background to create a striking contrast.
 
 ## Team Members
 |   Name   | ID      | GitHub   | Email  
