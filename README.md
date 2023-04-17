@@ -21,7 +21,7 @@ TBH
 * Figma
 
 ## Typography
-TBH
+![Typography](https://user-images.githubusercontent.com/79821374/232353345-85eba66c-66b5-40a8-9a38-b5263569340b.png)
 
 ## Team Members
 |   Name   | ID      | GitHub   | Email  
