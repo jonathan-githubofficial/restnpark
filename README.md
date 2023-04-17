@@ -37,6 +37,5 @@ DM Sans is a modern sans-serif typeface designed by Colophon Foundry. It is a hi
 | `Yason Bedoshvili` | `40058829` | ([GitHub/Yason287](https://github.com/Yason287)) | yasonbedoshvili@gmail.com
 
 ## Prototype
-
-
+https://www.figma.com/proto/Yo26ygmLMKEAnYUlHaZfK9/SOEN-357?node-id=56-1746&scaling=scale-down&page-id=52%3A293&starting-point-node-id=56%3A1746
 
