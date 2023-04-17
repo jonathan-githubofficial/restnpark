@@ -20,6 +20,9 @@ TBH
 * TBH
 * Figma
 
+## Typography
+TBH
+
 ## Team Members
 |   Name   | ID      | GitHub   | Email  
 | ------------- | ------------- | --------    | -------- |
