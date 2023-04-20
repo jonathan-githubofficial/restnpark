@@ -2,18 +2,20 @@
     <header class="center">
         <nav>
             <h1>
-              <router-link to="/Reservations"><img src="../../assets/home button.png">&nbsp;&nbsp;&nbsp;&nbsp;</router-link>
-              <router-link v-if="!isLoggendIn" style="top: -5%;" to="/"><img src="../../assets/logo2.png">&nbsp;&nbsp;&nbsp;&nbsp;</router-link>
-              <router-link v-else style="top: -5%;" to="/Parkings"><img src="../../assets/logo2.png">&nbsp;&nbsp;&nbsp;&nbsp;</router-link>
+              <menu-vue></menu-vue>
+              <!-- <router-link to="/Reservations"><img src="../../assets/home button.png">&nbsp;&nbsp;&nbsp;&nbsp;</router-link> -->
+              <router-link class="imgCent" v-if="!isLoggendIn" to="/"><img src="../../assets/logo2.png">&nbsp;&nbsp;&nbsp;&nbsp;</router-link>
+              <router-link class="imgCent" v-else to="/Parkings"><img src="../../assets/logo2.png">&nbsp;&nbsp;&nbsp;&nbsp;</router-link>
               <router-link class="imgCent2" to="/profile"><img src="../../assets/Profile.png">&nbsp;&nbsp;&nbsp;&nbsp;</router-link>
-              <router-link class="imgCent" v-if="isLoggendIn" to="/" @click="logout" style="color: #138E5A;">Logout</router-link>
+              <router-link class="imgCent3" v-if="isLoggendIn" to="/" @click="logout" style="color: #138E5A;">Logout</router-link>
             </h1>
         </nav>
     </header>
 </template>
 <script>
-
+import MenuVue from '../UI/Menu.vue';
 export default {
+  components:{MenuVue},
   computed: {
     isLoggendIn(){
       return this.$store.getters.isAuthenticated;
@@ -81,10 +83,13 @@ header nav {
 
 }
 .imgCent{
-  top: -18%;
+  top: -44%;
 }
 .imgCent2{
-  top: -7%;
+  top: -45%;
+}
+.imgCent3{
+  top: -50%;
 }
 @media (max-width: 768px) {
   header nav{

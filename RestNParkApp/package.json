@@ -1,28 +1,30 @@
 {
-    "name": "rest-n-park",
-    "version": "0.0.0",
-    "private": true,
-    "scripts": {
-        "dev": "vite",
-        "build": "vite build",
-        "preview": "vite preview",
-        "test:unit": "vitest",
-        "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
-        "format": "prettier --write src/"
-    },
-    "dependencies": {
-        "vue": "^3.2.47",
-        "vue-router": "^4.0.13",
-        "vuex": "^4.0.2",
-        "vuex-persistedstate": "^4.1.0"
-    },
-    "devDependencies": {
-        "@vitejs/plugin-vue": "^4.0.0",
-        "@vitejs/plugin-vue-jsx": "^3.0.0",
-        "eslint": "^8.34.0",
-        "jsdom": "^21.1.0",
-        "prettier": "^2.8.4",
-        "vite": "^4.1.4",
-        "vitest": "^0.29.1"
-    }
+  "name": "rest-n-park",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "test:unit": "vitest",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
+    "dev": "vite",
+    "format": "prettier --write src/",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.47",
+    "vue-nav-ui": "^1.0.5",
+    "vue-router": "^4.0.13",
+    "vuex": "^4.0.2",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "@vitejs/plugin-vue-jsx": "^3.0.0",
+    "eslint": "^8.34.0",
+    "jsdom": "^21.1.0",
+    "prettier": "^2.8.4",
+    "sass": "^1.26.11",
+    "vite": "^4.1.4",
+    "vitest": "^0.29.1"
+  }
 }
