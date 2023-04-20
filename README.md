@@ -7,11 +7,11 @@ https://www.figma.com/proto/Yo26ygmLMKEAnYUlHaZfK9/SOEN-357?node-id=56-1746&scal
 
 ## Wireframes
 ### Login/Signup
-![sketch 357 project](https://user-images.githubusercontent.com/79821374/232355736-40170d83-60eb-4d7e-8e64-56830bb0438d.jpg)
+![sketch 357 project](https://user-images.githubusercontent.com/79821374/233501792-038769c2-b651-40ab-a052-a6b0d93df011.jpg)
 ### Parking user
-![sketch 357 project 2](https://user-images.githubusercontent.com/79821374/232356126-93096705-4320-411c-a21f-0fdd4538a484.jpg)
+![sketch 357 project (1)](https://user-images.githubusercontent.com/79821374/233501845-b504cdd4-bfc9-4863-aef8-e96494792750.jpg)
 ### Parking owner
-![sketch 357 project 3](https://user-images.githubusercontent.com/79821374/232356169-28a9ce7f-2a28-42f8-888c-0c16f8167218.jpg)
+![sketch 357 project (2)](https://user-images.githubusercontent.com/79821374/233501907-965a38ca-d771-42b6-b0ba-ba16f9795349.jpg)
 
 ## Typography
 ![Typography](https://user-images.githubusercontent.com/79821374/232353345-85eba66c-66b5-40a8-9a38-b5263569340b.png)
