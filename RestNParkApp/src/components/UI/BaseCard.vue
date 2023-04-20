@@ -2,7 +2,6 @@
     <div class="card center">
       <div class="card-content center">
         <h3 class="card-title">{{ title }}</h3>
-     
         <slot></slot>
       </div>
     </div>

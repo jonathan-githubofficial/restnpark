@@ -26,7 +26,7 @@ export default {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
-  margin-top: 5%;
+  margin-top: 4.2%;
 }
 .head{
   display: block;
@@ -35,7 +35,6 @@ export default {
  
 }
 .cent2 {
-  margin-top: 16%;
   text-align: center;
 }
 

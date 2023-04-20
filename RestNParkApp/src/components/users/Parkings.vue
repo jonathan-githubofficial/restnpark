@@ -1,6 +1,7 @@
 <template>
 
 <div>
+    <base-card title="Nearby Parkings">
         <div class="parking-photos">
             <div v-for="photo in photos"
                  :key="photo.id"
@@ -10,6 +11,7 @@
                 <div class="caption">{{ photo.caption }}</div>
             </div>
         </div>
+    </base-card>
     </div>
 
 </template>
@@ -31,6 +33,7 @@ export default {
     methods: {
         selectPhoto(photoId) {
             this.selectedPhotoId = photoId;
+            this.$router.replace('/ParkingDetails');
         }
     }
 }
@@ -39,7 +42,7 @@ export default {
         .parking-photos {
             display: flex;
             flex-wrap: wrap;
-            justify-content: center;
+            justify-content: space-between;
             align-items: center;
             height: 76vh;
         }
@@ -48,8 +51,9 @@ export default {
             margin: 10px;
             cursor: pointer;
             flex-basis: calc(33.33% - 20px);
-            max-width: calc(33.33% - 20px);
+            max-width: calc(35% - 20px);
             text-align: center;
+            right: 25px;    
         }
 
 

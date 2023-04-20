@@ -11,6 +11,8 @@ import ProfileReady from '../components/users/ProfileReady.vue'
 import UserInfo from '../components/users/UserInfo.vue'
 import Reservations from '../components/users/Reservations.vue'
 import Parkings from '../components/users/Parkings.vue'
+import ParkingDetails from '../components/users/ParkingDetails.vue'
+import Reserved from '../components/users/Reserved.vue'
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -32,6 +34,8 @@ const router = createRouter({
     {path: '/userInfo', component: UserInfo},
     {path: '/Reservations', component: Reservations},
     {path: '/Parkings', component: Parkings},
+    {path: '/parkingDetails', component: ParkingDetails},
+    {path: '/Reserved', component: Reserved},
   ]
 })
 

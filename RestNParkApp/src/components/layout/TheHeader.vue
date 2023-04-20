@@ -1,14 +1,15 @@
 <template>
-    <footer class="ftr center">
+    <header class="center">
         <nav>
             <h1>
-              <router-link to="/"><img src="../../assets/home.png">&nbsp;&nbsp;&nbsp;&nbsp;</router-link>
-              <router-link to="/Reservations"><img src="../../assets/reservs.png">&nbsp;&nbsp;&nbsp;&nbsp;</router-link>
-              <router-link to="/profile"><img src="../../assets/Icon Profile.png">&nbsp;&nbsp;&nbsp;&nbsp;</router-link>
-              <router-link v-if="isLoggendIn" to="/" @click="logout" style="color: #138E5A;">Logout</router-link>
+              <router-link to="/Reservations"><img src="../../assets/home button.png">&nbsp;&nbsp;&nbsp;&nbsp;</router-link>
+              <router-link v-if="!isLoggendIn" style="top: -5%;" to="/"><img src="../../assets/logo2.png">&nbsp;&nbsp;&nbsp;&nbsp;</router-link>
+              <router-link v-else style="top: -5%;" to="/Parkings"><img src="../../assets/logo2.png">&nbsp;&nbsp;&nbsp;&nbsp;</router-link>
+              <router-link class="imgCent2" to="/profile"><img src="../../assets/Profile.png">&nbsp;&nbsp;&nbsp;&nbsp;</router-link>
+              <router-link class="imgCent" v-if="isLoggendIn" to="/" @click="logout" style="color: #138E5A;">Logout</router-link>
             </h1>
         </nav>
-    </footer>
+    </header>
 </template>
 <script>
 
@@ -27,7 +28,7 @@ export default {
 }
 </script>
 <style scoped>
-footer {
+header {
   width: 100%;
   height: 4rem;
   background-color: #252525;
@@ -37,7 +38,7 @@ footer {
   
 }
 
-footer a {
+header a {
   text-decoration: none;
   color: #252525;
   display: inline-block;
@@ -62,7 +63,7 @@ h1 a:active,
 h1 a.router-link-active {
   border-color: transparent;
 }
-footer nav {
+header nav {
   width: 100%;
   margin: auto;
   display: flex;
@@ -75,18 +76,24 @@ footer nav {
   margin-left: auto;
   margin-right: auto;
   width: auto;
-  margin-top: 5%;
+  margin-top: -2%;
   font-size: calc(10px + 0.25vw);
 
 }
+.imgCent{
+  top: -18%;
+}
+.imgCent2{
+  top: -7%;
+}
 @media (max-width: 768px) {
-  footer nav{
+  header nav{
     font-size: calc(10px + 0.25vw);
 
   }
 }
 @media (max-width: 360px) {
-  footer nav center{
+  header nav center{
     font-size: calc(7.2px + 0.25vw);
     
   }
