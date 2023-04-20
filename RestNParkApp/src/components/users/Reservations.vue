@@ -9,9 +9,11 @@
 
 <script>
 export default {
+    computed:{
     isLoggendIn(){
       return this.$store.getters.isAuthenticated;
     }
+}
 }
 </script>
 <style scoped>
