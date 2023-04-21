@@ -14,7 +14,7 @@ https://www.figma.com/proto/Yo26ygmLMKEAnYUlHaZfK9/SOEN-357?node-id=56-1746&scal
 ![sketch 357 project (2)](https://user-images.githubusercontent.com/79821374/233501907-965a38ca-d771-42b6-b0ba-ba16f9795349.jpg)
 
 ## Mockups
-###Signup/Login
+### Signup/Login
 ![Signup](https://user-images.githubusercontent.com/79821374/233706214-4e336449-9909-4654-b36e-ef0469c1a94f.png)
 ### Parking User
 ![Parking User](https://user-images.githubusercontent.com/79821374/233706926-9eee0d15-19ef-488f-b9b3-ed877fa89432.png)
