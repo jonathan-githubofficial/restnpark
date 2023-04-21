@@ -45,6 +45,7 @@ button {
     padding: 10px;
     outline: none;
     border-radius: 4px;
+    cursor: pointer;
 }
 button:hover {
     color: #001F3F;
